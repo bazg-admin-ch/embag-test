@@ -1,0 +1,18 @@
+publiccodeYmlVersion: "0.4"
+name: embag-test
+url: https://github.com/bazg-admin-ch/embag-test
+platforms:
+  - web
+developmentStatus: development
+softwareType: standalone/other
+legal:
+  license: Apache-2.0
+maintenance:
+  type: internal
+localisation:
+  localisationReady: false
+  availableLanguages:
+    - de
+description:
+  de:
+    shortDescription: EMBAG Testrepository
